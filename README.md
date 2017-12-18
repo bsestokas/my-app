@@ -1,6 +1,6 @@
 # MyApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1. As a brief demo in angular, and follows a bit of the angular tutorial found at : https://angular.io/tutorial
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1. As a brief demo in angular, and follows a bit of the angular tutorial found at : https://angular.io/tutorial . Changing the hero object to a customer one.
 
 Modal is handled via boostrap. (This could be moved to ng modal)
 
